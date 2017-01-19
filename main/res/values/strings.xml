@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">I CAN\'T COUNT</string>
+    <string name="splashTxt">I CAN\'T COUNT</string>
+    <string name="resetButton">RESET</string>
+    <string name="counterButton">TAP TO START</string>
+    <string name="incdec">DECREMENT</string>
+    <string name="incDecIndicator">INCREMENTING</string>
+</resources>
